@@ -1,26 +1,3 @@
-// #include <Servo.h>
-
-// // Servo control pins
-// int onePin = 12;
-// int twoPin = 13;
-// int threePin = 11;
-// int microPin = 10;
-
-// // Button input pins
-// int prevMotorPin = 2;
-// int nextMotorPin = 3;
-// int adjustPin = 5;
-// int revPin = 4;
-
-// // Servo objects
-// Servo servos[4];
-
-// // Servo positions
-// int servoPositions[4] = {90, 90, 90, 90};
-
-// // Selected motor index
-// int currentMotor = 0;
-
 
 #include <Servo.h>
 
