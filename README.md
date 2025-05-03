@@ -12,3 +12,5 @@ Materials:
 - One Wood Box
 - One Mounting Block
 - Arduino code
+##
+If you want the EasyEda Schematic or Fusion files submit a pull request changing the README file with where I can send the file to!
